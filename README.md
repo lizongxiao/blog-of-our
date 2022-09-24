@@ -8,7 +8,7 @@
 |单页面应用框架	|Vue@3.x|
 |路由	|vue-router@4.x|
 |状态管理库	|vuex@4.x|
-|UI 框架|	ant-design-vue@2.x|
+|UI 框架|	ant-design-vue@3.x|
 |样式辅助	|Tailwindcss + Postcss|
 |静态代码检测|	ESLint + Prettier + Stylelint|
 |打包 |	Webpack5.x + Babel|
